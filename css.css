@@ -93,7 +93,7 @@ h2{
 .ñx{
     display:grid;
     padding:5px;
-    grid-template-columns:2fr 2fr 1fr;
+    grid-template-columns:auto auto auto;
 }
 .bord{
     padding:5px;
