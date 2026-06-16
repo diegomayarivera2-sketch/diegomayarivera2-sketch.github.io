@@ -1,2 +1,90 @@
-# diegomayarivera2-sketch.github.io
-Página web
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <link rel="stylesheet" href="./css/css.css">
+    <meta charset="UTF-8">
+    <meta name="description" content="proyecto final de páginas web">
+    <meta name="KeyWord" content="página web,epo106, educacion,proyecto,html">
+    <meta http-equiv="cache-control" content="no-cache">
+    <title>EPO106</title>    
+</head>
+<body>
+    <header class="web">
+        <a href="index.html">
+        <img src="imagenes/epo.jpeg" alt="logo de la epo 106" width="80px" height="80px" class="logoredondo">
+        </a>
+        <h1 class="bb"> EPO106</h1>
+            </header>
+    <nav class="nav">
+        <p class="up">menus</p>
+        <a href="noticias.html" class="enl">noticias</a>
+        <a href="imagenes.html" class="enl">imagenes</a>
+        <a href="mapa.html" class="enl">mapa</a>
+        <a href="documentos.html" class="enl">documentos</a>
+    </nav>
+    <hr>
+    <div class="fx">
+        <aside class="nt">
+            <h2>MANEJO DEL MATERIAL</h2>
+            <p>actualmente por disposición de la epo106 pedimos cuidar el material de los talleres tanto de cómputo como del laboratorio y en general todos los materiales de la epo106 debido a los recientes incidentes donde tiraron el 1 de la "estatua epo106".</p> 
+            <p>También pedimos que no cambien los fondos de pantalla de la sala de cómputo y no tiren los líquidos proporcionados en el laboratorio debido a que varios de ellos pueden llegar a ser bastante peligrosos y corrosivos</p>
+        </aside>
+        <main class="cen nt">
+            <div class="gx">
+                <div>
+            <h2>Aulas</h2>
+            <img src="imagenes/salon.jpg" alt="salón de la epo106" width="160px" height="160px">
+            <p>en los salones de la epo106 contamos con pizarrón proyector y pupitres para cada alumno que desee estudiar son espacios que el propio alumnado decora a lo largo del año con cada festividad que llegue</p>
+            </div>
+            <div>
+            <h2>laboratorio</h2>
+            <p>contamos con lo básico y más para el aprovechamiento académico desde matraces y pipetas hasta algunos ácidos y bases fuertes que si bien son peligrosas en manos de un experto pueden crear maravillas</p>
+            <img src="imagenes/laboratorio.jpg" alt="laboratorio de la epo106" width="160px" height="160px">
+            </div>
+            <div>
+            <h2>más</h2>
+            <img src="imagenes/nav.jpg" alt="salon denavidad" width="160px" height="160px">
+            <p>cada año nos unimos a las festividades que pasan desde organizando convivios hasta adornar los salones y competencias para ver la mejor decoración de puertas</p>        
+            <hr>
+            </div>
+            </div>
+                <hr>
+                <a href="https://edomex.gob.mx/sites/edomex.gob.mx/files/files/Convocatoria Ingreso MS 2025.pdf">
+                <img src="imagenes/pdf.png" alt="click para descargar la convocatoria" width="80px" height="100px" class="cen">
+                </a>
+                <h2>CONVOCATORIA</h2>
+                <P>al darle click a la imagen se descargara la convocatoria oficial de la epo106 para el año 2025 para los de nuevo ingreso</P>
+                </div>
+                <hr>
+                <div class="cen xd">
+                <a href="imagenes/calendario.jpg">
+                <img src="imagenes/calendario.jpg" alt="calendario escolar 2025-2026" width="400px" height="200px">
+                </a>
+                <h2>CALENDARIO ESCOLAR</h2>
+                <p class="cen">Este calendario pertenece al ciclo escolar 2025-2026 click en la imagen para verla de cerca</p>
+                </div>
+        </main>
+    </div>
+    <hr>
+    <footer>
+        <div class="hx">
+            <div class="enl">
+            <h2>TERMINOS Y CONDICIONES</h2>
+            <P class="letrach">Al acceder y utilizar el sitio web oficial de la EPO 106, ubicada en Almoloya del Río, Toluca, Estado de México, el usuario acepta que los contenidos informativos, académicos y administrativos aquí publicados son propiedad de la institución y están sujetos a las leyes mexicanas vigentes, comprometiéndose a hacer un uso responsable, ético y estrictamente educativo de la plataforma, evitando cualquier conducta que vulnere la seguridad del sistema o la integridad de la comunidad escolar; asimismo, se establece que la escuela no se hace responsable por fallas técnicas externas o el uso indebido de la información, reservándose el derecho de actualizar estos términos en cualquier momento, mientras que el manejo de datos personales se llevará a cabo conforme a la normativa de protección de datos del Estado de México, sometiéndose cualquier controversia legal a la jurisdicción de los tribunales competentes en la región de Toluca.</P>
+        </div>
+        <div class="enl jx">
+            <div>
+                <img src="imagenes/Facebook.jpeg" alt="imagen de Facebook que redirije al Facebook de la epo106" width="80px" height="80px" class="logoredondo">
+                </div>
+                <div>
+                    <h2>RED SOCIAL</h2>
+                <p>Facebook:epo106 Almoloya del Rio</p>
+                </div>
+        </div>
+        <div>
+    <img src="imagenes/EDO.jpeg" alt="logo del Estado de México" width="40px" height="140px" class="repartir1 logoredondo">
+    </div>
+    </div>
+    </footer>
+  </body>
+</html>
